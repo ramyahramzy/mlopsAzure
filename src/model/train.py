@@ -35,6 +35,7 @@ def get_csvs_df(path):
 
 
 # TO DO: add function to split data
+def split_data()
 
 
 def train_model(reg_rate, X_train, X_test, y_train, y_test):
